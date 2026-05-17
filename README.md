@@ -80,6 +80,4 @@ tic-tac-toe-game/
 - **Active turn indicator** that highlights the current player's score card
 - **Winning celebration** with scale + rotate animation on winning squares
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
