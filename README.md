@@ -32,7 +32,7 @@ A sleek, modern Tic Tac Toe game built with React and styled using Tailwind CSS 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/tic-tac-toe-game.git
+git clone https://github.com/aleememon/tic-tac-toe-game.git
 cd tic-tac-toe-game
 
 # Install dependencies
